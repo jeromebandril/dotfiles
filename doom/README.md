@@ -1,2 +1,1 @@
-# Doom Settings
-Thisi s my personal Emacs setup with [Doomemacs](https://github.com/doomemacs/doomemacs). It's not set up for coding, instead just for org-mode note taking.
+Org-mode setup/config files for Doom Emacs. [Doomemacs](https://github.com/doomemacs/doomemacs).
